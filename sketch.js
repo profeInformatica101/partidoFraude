@@ -4,7 +4,7 @@ let balon;
 
 const NOMBRES = [
   "Sema", "Cristiano", "Amigo Carlos", "Pedro", "Carlos", "Juan David", "Alex",
-  "Santi", "Rafa", "Manolo", "Joselu Mato", "Antonio Tango", "Pablo", "Caste Porra Verde"
+  "Santi", "Rafa", "Manolo", "Joselu Mato", "Antonio Tango", "Pablo", "Caste"
 ];
 
 const CAMPO = {
